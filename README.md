@@ -2,4 +2,4 @@
 - 👀 I’m interested in full-stack web development and learning javascipt, node, and python.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on projects related to education, especially on the front-end.
-- 📫 How to reach me: pieromirandaofficial@gmail.com and pieromiranda3@gmail.com, pieromiranda3 (instagram)
+- 📫 How to reach me: pieroalejandro.mirandamello@sjsu.edu, @pieromambo (instagram)
